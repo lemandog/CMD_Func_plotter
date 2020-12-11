@@ -1,4 +1,4 @@
-# ConsoleGrapher
+# ConsoleGrapher - JAVA
 Can build mathematical functions graphs in pseudographics
 https://github.com/lemandog/ConsoleGrapher/blob/main/Снимок.PNG
 
